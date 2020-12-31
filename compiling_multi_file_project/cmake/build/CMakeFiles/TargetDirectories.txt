@@ -1,8 +1,0 @@
-/home/samim/Projects/c++/nasim/multi_file_project/cmake/build/CMakeFiles/rebuild_cache.dir
-/home/samim/Projects/c++/nasim/multi_file_project/cmake/build/CMakeFiles/edit_cache.dir
-/home/samim/Projects/c++/nasim/multi_file_project/cmake/build/src/CMakeFiles/rebuild_cache.dir
-/home/samim/Projects/c++/nasim/multi_file_project/cmake/build/src/CMakeFiles/edit_cache.dir
-/home/samim/Projects/c++/nasim/multi_file_project/cmake/build/src/CMakeFiles/out.dir
-/home/samim/Projects/c++/nasim/multi_file_project/cmake/build/src/sum/CMakeFiles/rebuild_cache.dir
-/home/samim/Projects/c++/nasim/multi_file_project/cmake/build/src/sum/CMakeFiles/edit_cache.dir
-/home/samim/Projects/c++/nasim/multi_file_project/cmake/build/src/sum/CMakeFiles/sum.dir
