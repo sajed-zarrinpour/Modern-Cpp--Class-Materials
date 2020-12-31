@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/samim/Projects/c++/nasim/multi_file_project/cmake/src/sum/sum.cpp
+sum.h
+/home/samim/Projects/c++/nasim/multi_file_project/cmake/src/sum/sum.h
+
+/home/samim/Projects/c++/nasim/multi_file_project/cmake/src/sum/sum.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall CMakeFiles/out.dir/main.cpp.o -o out  -Wl,-rpath,/home/samim/Projects/c++/nasim/multi_file_project/cmake/build/src/sum sum/libsum.so 
