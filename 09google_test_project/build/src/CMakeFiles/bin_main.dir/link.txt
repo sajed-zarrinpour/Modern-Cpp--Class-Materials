@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/bin_main.dir/main.cpp.o -o bin_main  -Wl,-rpath,/home/samim/Projects/local/scientific/CXX/modern/modern_cxx_overview/materials/09google_test_project/build/src libhello.so libtools.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_sum.dir/test_sum.cpp.o -o test_sum  -Wl,-rpath,/home/samim/Projects/local/scientific/CXX/modern/modern_cxx_overview/materials/09google_test_project/build/src ../src/libtools.so ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a -lpthread 

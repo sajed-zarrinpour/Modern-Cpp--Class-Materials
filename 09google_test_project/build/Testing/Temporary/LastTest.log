@@ -1,0 +1,19 @@
+Start testing: Jan 17 21:11 +0330
+----------------------------------------------------------
+Unable to find executable: /home/samim/Projects/local/scientific/CXX/modern/modern_cxx_overview/materials/09google_test_project/build/tests/test_sum
+1/1 Testing: test_sum
+1/1 Test: test_sum
+Command: ""
+Directory: /home/samim/Projects/local/scientific/CXX/modern/modern_cxx_overview/materials/09google_test_project/build/tests
+"test_sum" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_sum" end time: Jan 17 21:11 +0330
+"test_sum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 17 21:11 +0330
