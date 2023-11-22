@@ -1,2 +1,2 @@
 # c++ notes
-Notes on modern c++ programing.
+Notes on modern C++ programming.
